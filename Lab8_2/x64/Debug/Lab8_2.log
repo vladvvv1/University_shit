@@ -1,3 +1,0 @@
-﻿  Lab8_2.cpp
-D:\Student\ПП12\lab8\lab8_2\Lab8_2\Lab8_2.cpp(334,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Lab8_2.vcxproj -> D:\Student\ПП12\lab8\lab8_2\x64\Debug\Lab8_2.exe
